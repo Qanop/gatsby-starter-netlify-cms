@@ -1,7 +1,9 @@
 ---
-title: "About me"
-template: "page"
-socialImage: "media/about.jpg"
+template: page
+title: About me
+socialImage: media/about.jpg
+slug: aboutme
+draft: false
 ---
 ## I am a photographer.
 In my spare time I do portrait photography. It is an interesting art that lead you to work and match up with another person. This way can open door to many styles of photography. Everyone works differently and different styles suit them. Therefore, each subsequent photo session gives me pleasure and allows me to implement more and more new ideas.  
